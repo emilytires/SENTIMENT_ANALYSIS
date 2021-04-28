@@ -21,7 +21,7 @@ Sentiment Analysis Approaches
 3. Hybrid Approach
 
 
-Steps of Sentiment Analysis
+## Steps of Sentiment Analysis
 
 * Data Preprocessing
 
