@@ -6,17 +6,17 @@ Sentiment Analysis Approaches
 
 1. Machine Learning Based Approach
 
-  1.1. Linear Classifiers (SVM, Neural Network)
+   1.1. Linear Classifiers (SVM, Neural Network)
 
-  1.2. Decision Tree Classifiers
+   1.2. Decision Tree Classifiers
 
-  1.3. Probabilistic Classifiers (Naive Bayes, Bayesian Network)
+   1.3. Probabilistic Classifiers (Naive Bayes, Bayesian Network)
 
 2. Lexicon - Based Approach
 
-  2.1. Dictionary Based Approach
+   2.1. Dictionary Based Approach
   
-  2.2. Corpus Based Approach
+   2.2. Corpus Based Approach
 
 3. Hybrid Approach
 
